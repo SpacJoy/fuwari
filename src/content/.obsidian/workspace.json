@@ -194,8 +194,8 @@
                   "copy"
                 ]
               },
-              "icon": "fanyi_youdao",
-              "title": "Fanyi Youdao"
+              "icon": "lucide-ghost",
+              "title": "translator-view"
             }
           }
         ],
@@ -203,10 +203,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
       "bases:新建数据库": false,
@@ -219,7 +220,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "878c5b218b420fcc",
+  "active": "abc16639ee44f2e4",
   "lastOpenFiles": [
     "posts/Character Profile.md",
     "posts/貔貅性别相关设定.md",
